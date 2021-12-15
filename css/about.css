@@ -18,6 +18,7 @@ body {
 .card_text {
     color: azure;
     background-color: rgb(1, 73, 75);
+    background-image: url(./images/bg11.png);
 }
 #sign {
     padding: 18%;

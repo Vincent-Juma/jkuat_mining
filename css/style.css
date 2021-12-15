@@ -112,6 +112,11 @@ footer{
 .center box{
     bottom: 100%;
 }
+/* .card_text {
+    color: azure;
+    background-color: rgb(1, 73, 75);
+    background-image: url(./img/pandora);
+} */
 .card {
     background-image: url(../img/pandora.jpg);
 }
